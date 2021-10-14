@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c9b4b5a-c217-4bd8-8976-0973f6849aa1" name="Default Changelist" comment="添加 static文件">
-      <change afterPath="$PROJECT_DIR$/static/css/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/test.js" afterDir="false" />
+    <list default="true" id="6c9b4b5a-c217-4bd8-8976-0973f6849aa1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +35,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\陆超\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,12 +47,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634091322482</updated>
-      <workItem from="1634091325012" duration="1295000" />
+      <workItem from="1634091325012" duration="3781000" />
     </task>
+    <task id="LOCAL-00001" summary="添加 static文件">
+      <created>1634105619586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634105619586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加 static文件" />
@@ -64,9 +82,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1634091599154" />
-    <state x="347" y="3" key="CommitChangelistDialog2" timestamp="1634105567016">
+    <state x="347" y="3" key="CommitChangelistDialog2" timestamp="1634105618533">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="347" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1634105567016" />
+    <state x="347" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1634105618533" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1634120637950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1634120637950" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1634120659914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1634120659914" />
   </component>
 </project>
